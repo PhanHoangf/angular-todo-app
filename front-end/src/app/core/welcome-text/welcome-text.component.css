@@ -1,0 +1,11 @@
+:host {
+  display: block;
+}
+
+.main-title {
+  font-size: 4.2rem;
+}
+
+.date-temp {
+  font-size: 2rem;
+}

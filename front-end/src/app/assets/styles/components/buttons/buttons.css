@@ -1,0 +1,16 @@
+.btn {
+    display: inline-block;
+    padding: 1rem 11.6rem 1rem 2rem;
+    font-size: 2rem;
+    line-height: 2rem;
+    border-radius: 8px;
+}
+
+.btn-black {
+    background: var(--app-color-black);
+    color: var(--app-color-white);
+}
+
+.btn-black:hover {
+    background: var(--app-color-emperor);
+}
